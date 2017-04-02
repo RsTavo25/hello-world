@@ -1,4 +1,3 @@
-.travis.yml
 Program programa1;
 uses crt;
 var
@@ -14,3 +13,4 @@ num3:=num1+num2;
 writeln(num3);
 readln;
 end.
+.travis.yml
